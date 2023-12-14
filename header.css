@@ -1,0 +1,33 @@
+.navbarColor {
+    background-color: rgba(40, 58, 90, 0.9);
+}
+
+.navbarText {
+    font-size: 14px;
+    color: white;
+}
+
+.navbarText:hover {
+    color: #00a6eb;
+}
+
+.logoname {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+
+
+
+/* Drop Down Menu */
+
+.dropdownText {
+    color: rgba(40, 58, 90, 0.9);
+    
+}
+
+.dropdownText:hover {
+    color: #00a6eb;
+}
+
+/* Drop Down End */
