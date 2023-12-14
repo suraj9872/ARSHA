@@ -1,0 +1,45 @@
+.aboutHead{
+    color: rgba(40, 58, 90, 0.9);
+    
+}
+
+.aboutHead h1{
+    font-weight: 800;
+    font-size: 32px;
+    
+}
+
+
+
+/* About2 start */
+.bgimg1{
+    background-image: url("https://bootstrapmade.com/demo/templates/Arsha/assets/img/why-us.png");
+    background-size: cover;
+}
+
+
+.box2 h2{
+    
+    font-weight: 400;
+    font-size: 28px;
+}
+
+.box2 p{
+
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.about2color{
+    background-color:  #f3f5fa;
+}
+
+.accordian-head-color{
+    color: black;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.accordian-head-color:hover{
+    color: #00a6eb;
+}
