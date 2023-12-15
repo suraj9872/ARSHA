@@ -43,3 +43,16 @@
 .accordian-head-color:hover{
     color: #00a6eb;
 }
+
+
+
+.box3 h2{
+    color:#37517e;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.box3 p{
+    font-style: italic;
+    font-size: 15px;
+}

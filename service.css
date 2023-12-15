@@ -1,0 +1,29 @@
+
+
+.service-main{
+    font-weight: 400;
+    font-size: 16.5px;
+}
+
+.col-md-12 h3{
+    color:  rgba(40, 58, 90, 0.9) ;
+    font-size: 24px;
+}
+
+.col-md-12 h3:hover{
+    color: #00a6eb;
+}
+
+
+.card-body p{
+   
+    font-size: 15px;
+    color: black;
+}
+
+
+.cardborder{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 5px solid white;
+    background-color: white;
+}
