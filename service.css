@@ -27,3 +27,11 @@
     border: 5px solid white;
     background-color: white;
 }
+
+.service-mg-img{
+    background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("https://bootstrapmade.com/demo/templates/Arsha/assets/img/cta-bg.jpg") fixed center center;
+    background-size: cover;
+    /* filter: opacity(90%); */
+    /* background-color:  rgba(40, 58, 90, 0.9); */
+  
+}

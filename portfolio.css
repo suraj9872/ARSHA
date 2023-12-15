@@ -1,0 +1,12 @@
+.col-lg-12 h1{
+    color: rgba(40, 58, 90, 0.9) ;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.col-lg-12 p{
+    font-weight: 400;
+    font-size: 15px;
+    
+}
