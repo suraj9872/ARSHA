@@ -15,3 +15,16 @@
     color: rgba(40, 58, 90, 0.9) ;
     font-weight: 700;
 }
+
+
+.column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 10px 10px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
