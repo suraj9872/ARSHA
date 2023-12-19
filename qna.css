@@ -1,0 +1,10 @@
+.qna-accordian{
+    font-size: 17px;
+    font-weight: 500;
+    color:#37517e;
+}
+
+.qna-accordian:hover{
+  
+    color: #00a6eb;
+}

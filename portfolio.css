@@ -8,5 +8,10 @@
 .col-lg-12 p{
     font-weight: 400;
     font-size: 15px;
-    
+
+}
+
+.card-body h5{
+    color: rgba(40, 58, 90, 0.9) ;
+    font-weight: 700;
 }

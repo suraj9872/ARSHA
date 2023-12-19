@@ -31,3 +31,19 @@
     border-radius: 5px;
     font-size: 17px;
 }
+
+
+.btn-socil-media{
+    /* border-radius: 5px; */
+    width: 100%;
+   
+}
+
+.btn-socil-media:hover{
+    background-color: #47b2e4;
+}
+
+/* .btn5{
+    color: #00a6eb;
+    background-color: white;
+} */
